@@ -25,4 +25,5 @@ done
 
 echo " "
 echo "Well done! It is the correct answer, here is the list of files:"
+echo " "
 echo "---" && ls -1
